@@ -1,0 +1,22 @@
+#navbar_plugin_customkeyboardcontrol .far {
+    transform: scale(1.4);
+    text-shadow: none;
+}
+
+#settings_plugin_customkeyboardcontrol .row-fluid>* {
+    margin: 3px;
+    padding: 3px;
+}
+
+#settings_plugin_customkeyboardcontrol .row-fluid>div {
+    border: 1px gray solid;
+    border-radius: 0.5em;
+    text-align: center;
+}
+
+#settings_plugin_customkeyboardcontrol .row-fluid>div>span {
+    border: white 1px solid;
+    background-color: black;
+    color: white;
+    padding: 2px;
+}

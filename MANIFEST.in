@@ -1,0 +1,3 @@
+include README.md
+recursive-include octoprint_customkeyboardcontrol/translations *
+recursive-include octoprint_customkeyboardcontrol/static *
